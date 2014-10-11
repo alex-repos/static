@@ -1,0 +1,2 @@
+npm install
+wintersmith build -c config-preview.json
